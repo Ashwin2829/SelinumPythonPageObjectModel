@@ -1,0 +1,10 @@
+2023-09-16 19:07:55,588 - test_carwale.py:[54] - [INFO] - ******Inside car Names and Prices Test*******
+2023-09-16 19:07:56,328 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-09-16 19:08:26,648 - test_carwale.py:[54] - [INFO] - ******Inside car Names and Prices Test*******
+2023-09-16 19:08:27,123 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-09-16 19:08:27,808 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-09-16 19:08:28,665 - BasePage.py:[23] - [INFO] - Clicking on an elementtoyota_XPATH
+2023-09-16 19:08:50,868 - test_carwale.py:[54] - [INFO] - ******Inside car Names and Prices Test*******
+2023-09-16 19:08:51,254 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-09-16 19:08:52,016 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-09-16 19:08:52,558 - BasePage.py:[23] - [INFO] - Clicking on an elementhonda_XPATH

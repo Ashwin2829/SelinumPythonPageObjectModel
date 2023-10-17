@@ -1,0 +1,40 @@
+2023-08-04 10:56:15,667 - test_signup.py:[14] - [INFO] - Test do signup started
+2023-08-04 10:56:16,974 - BasePage.py:[32] - [INFO] - Typing in an elementname_CSS value entered as :Rahul
+2023-08-04 10:56:17,236 - BasePage.py:[32] - [INFO] - Typing in an elementphone_CSS value entered as :72827
+2023-08-04 10:56:17,499 - BasePage.py:[32] - [INFO] - Typing in an elementemail_XPATH value entered as :trainer@way2automation
+2023-08-04 10:56:17,629 - BasePage.py:[45] - [INFO] - Selecting from an elementcountry_XPATH value selected as :India
+2023-08-04 10:56:18,422 - BasePage.py:[32] - [INFO] - Typing in an elementcity_XPATH value entered as :Delhi
+2023-08-04 10:56:19,869 - BasePage.py:[32] - [INFO] - Typing in an elementusername_XPATH value entered as :rahularora
+2023-08-04 10:56:20,815 - BasePage.py:[32] - [INFO] - Typing in an elementpassword_XPATH value entered as :sjsdhdhh
+2023-08-04 10:56:21,051 - BasePage.py:[21] - [INFO] - Clicking on an elementsubmit_XPATH
+2023-08-04 10:56:21,052 - test_signup.py:[17] - [INFO] - Test do signup successfully verified
+2023-08-04 10:56:36,657 - test_signup.py:[14] - [INFO] - Test do signup started
+2023-08-04 10:56:37,016 - BasePage.py:[32] - [INFO] - Typing in an elementname_CSS value entered as :Rahul
+2023-08-04 10:56:37,238 - BasePage.py:[32] - [INFO] - Typing in an elementphone_CSS value entered as :72827
+2023-08-04 10:56:37,289 - BasePage.py:[32] - [INFO] - Typing in an elementemail_XPATH value entered as :trainer@way2automation
+2023-08-04 10:56:41,757 - BasePage.py:[45] - [INFO] - Selecting from an elementcountry_XPATH value selected as :India
+2023-08-04 10:56:41,783 - BasePage.py:[32] - [INFO] - Typing in an elementcity_XPATH value entered as :Delhi
+2023-08-04 10:56:41,827 - BasePage.py:[32] - [INFO] - Typing in an elementusername_XPATH value entered as :rahularora
+2023-08-04 10:56:41,874 - BasePage.py:[32] - [INFO] - Typing in an elementpassword_XPATH value entered as :sjsdhdhh
+2023-08-04 10:56:42,161 - BasePage.py:[21] - [INFO] - Clicking on an elementsubmit_XPATH
+2023-08-04 10:56:42,161 - test_signup.py:[17] - [INFO] - Test do signup successfully verified
+2023-08-04 11:00:22,815 - test_signup.py:[14] - [INFO] - Test do signup started
+2023-08-04 11:00:23,024 - BasePage.py:[32] - [INFO] - Typing in an elementname_CSS value entered as :Rahul
+2023-08-04 11:00:23,189 - BasePage.py:[32] - [INFO] - Typing in an elementphone_CSS value entered as :72827
+2023-08-04 11:00:23,396 - BasePage.py:[32] - [INFO] - Typing in an elementemail_XPATH value entered as :trainer@way2automation
+2023-08-04 11:00:23,840 - BasePage.py:[45] - [INFO] - Selecting from an elementcountry_XPATH value selected as :India
+2023-08-04 11:00:24,058 - BasePage.py:[32] - [INFO] - Typing in an elementcity_XPATH value entered as :Delhi
+2023-08-04 11:00:24,201 - BasePage.py:[32] - [INFO] - Typing in an elementusername_XPATH value entered as :rahularora
+2023-08-04 11:00:24,320 - BasePage.py:[32] - [INFO] - Typing in an elementpassword_XPATH value entered as :sjsdhdhh
+2023-08-04 11:00:24,470 - BasePage.py:[21] - [INFO] - Clicking on an elementsubmit_XPATH
+2023-08-04 11:00:24,471 - test_signup.py:[17] - [INFO] - Test do signup successfully verified
+2023-08-04 11:00:38,674 - test_signup.py:[14] - [INFO] - Test do signup started
+2023-08-04 11:00:38,885 - BasePage.py:[32] - [INFO] - Typing in an elementname_CSS value entered as :Rahul
+2023-08-04 11:00:39,015 - BasePage.py:[32] - [INFO] - Typing in an elementphone_CSS value entered as :72827
+2023-08-04 11:00:39,283 - BasePage.py:[32] - [INFO] - Typing in an elementemail_XPATH value entered as :trainer@way2automation
+2023-08-04 11:00:43,857 - BasePage.py:[45] - [INFO] - Selecting from an elementcountry_XPATH value selected as :India
+2023-08-04 11:00:43,877 - BasePage.py:[32] - [INFO] - Typing in an elementcity_XPATH value entered as :Delhi
+2023-08-04 11:00:43,907 - BasePage.py:[32] - [INFO] - Typing in an elementusername_XPATH value entered as :rahularora
+2023-08-04 11:00:43,948 - BasePage.py:[32] - [INFO] - Typing in an elementpassword_XPATH value entered as :sjsdhdhh
+2023-08-04 11:00:44,247 - BasePage.py:[21] - [INFO] - Clicking on an elementsubmit_XPATH
+2023-08-04 11:00:44,248 - test_signup.py:[17] - [INFO] - Test do signup successfully verified

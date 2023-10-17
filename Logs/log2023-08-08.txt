@@ -1,0 +1,85 @@
+2023-08-08 15:30:46,511 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:30:47,093 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:30:47,225 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:31:11,145 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:31:11,511 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:31:11,820 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:33:10,873 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:33:12,129 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:33:12,487 - BasePage.py:[60] - [INFO] - Moving to an elementfindNewCars_XPATH
+2023-08-08 15:33:12,665 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:33:32,940 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:33:33,324 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:33:33,596 - BasePage.py:[60] - [INFO] - Moving to an elementfindNewCars_XPATH
+2023-08-08 15:33:33,980 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:36:51,716 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:36:53,286 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:36:53,662 - BasePage.py:[60] - [INFO] - Moving to an elementfindNewCars_XPATH
+2023-08-08 15:36:53,864 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:37:42,609 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:37:43,035 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:37:43,349 - BasePage.py:[60] - [INFO] - Moving to an elementfindNewCars_XPATH
+2023-08-08 15:37:43,645 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:40:22,699 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:40:23,595 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:40:23,894 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:40:44,112 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:40:44,541 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:40:44,963 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:43:18,817 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:43:19,493 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:43:19,794 - BasePage.py:[60] - [INFO] - Moving to an elementfindNewCars_XPATH
+2023-08-08 15:43:19,969 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:43:40,667 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:43:41,004 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:43:41,285 - BasePage.py:[60] - [INFO] - Moving to an elementfindNewCars_XPATH
+2023-08-08 15:43:41,626 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:48:20,673 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:48:21,144 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:48:21,441 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:48:42,189 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:48:42,967 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:49:29,431 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:49:29,776 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:49:30,126 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 15:49:50,045 - test_carwale.py:[15] - [INFO] - ******Inside new car*******
+2023-08-08 15:49:50,437 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 15:49:50,984 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:31:13,193 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:31:16,203 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:31:19,212 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:31:22,217 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:31:43,918 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:31:46,932 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:31:49,940 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:31:52,951 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:40:21,201 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:40:22,018 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:40:41,961 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:40:42,450 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:40:42,743 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:40:42,743 - BasePage.py:[23] - [INFO] - Clicking on an element
+2023-08-08 19:40:58,376 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:40:58,908 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:40:59,476 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:40:59,477 - BasePage.py:[23] - [INFO] - Clicking on an element
+2023-08-08 19:41:13,784 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:41:14,223 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:41:14,575 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:41:14,575 - BasePage.py:[23] - [INFO] - Clicking on an element
+2023-08-08 19:41:34,866 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:41:35,221 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:41:35,852 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:41:35,853 - BasePage.py:[23] - [INFO] - Clicking on an element
+2023-08-08 19:41:57,335 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:41:57,847 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:41:58,497 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:41:58,497 - BasePage.py:[23] - [INFO] - Clicking on an element
+2023-08-08 19:42:19,783 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:42:20,272 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:42:20,791 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:42:20,791 - BasePage.py:[23] - [INFO] - Clicking on an element
+2023-08-08 19:42:44,211 - test_carwale.py:[24] - [INFO] - ******Inside select car*******
+2023-08-08 19:42:44,543 - BasePage.py:[60] - [INFO] - Moving to an elementnewCars_XPATH
+2023-08-08 19:42:45,211 - BasePage.py:[23] - [INFO] - Clicking on an elementfindNewCars_XPATH
+2023-08-08 19:42:45,211 - BasePage.py:[23] - [INFO] - Clicking on an element
